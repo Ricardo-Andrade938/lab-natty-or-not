@@ -22,8 +22,6 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ```markdown
 # Músculos de Silício: Uma Odisseia Hiper-Realista
 
-[![Google Veo](https://img.shields.io/badge/IA%20de%20V%C3%ADdeo-Google%20Veo-4285F4?style=for-the-badge&logo=google)](#) [![Midjourney](https://img.shields.io/badge/Concept%20Art-Midjourney-9364F7?style=for-the-badge&logo=discord&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/Reposit%C3%B3rio-GitHub-181717?style=for-the-badge&logo=github)](#)
-
 ## 📒 Descrição
 Este projeto explora a fronteira entre o real e o artificial no fisiculturismo, inspirado pelo desafio "Natty or Not". Através de um vídeo de 8 segundos gerado por Inteligência Artificial, a obra busca criar uma cena de treino tão realista e "aesthetic" que levanta a questão: o que vemos é fruto de anos de dedicação humana ("Natty") ou da pura capacidade computacional de uma IA Generativa? O vídeo apresenta um atleta em um ambiente de academia com iluminação dramática, focando na textura da pele, na contração muscular e nos detalhes do suor para desafiar a percepção do espectador.
 
