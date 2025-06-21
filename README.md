@@ -26,7 +26,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Este projeto explora a fronteira entre o real e o artificial no fisiculturismo, inspirado pelo desafio "Natty or Not". Através de um vídeo de 8 segundos gerado por Inteligência Artificial, a obra busca criar uma cena de treino tão realista e "aesthetic" que levanta a questão: o que vemos é fruto de anos de dedicação humana ("Natty") ou da pura capacidade computacional de uma IA Generativa? O vídeo apresenta um atleta em um ambiente de academia com iluminação dramática, focando na textura da pele, na contração muscular e nos detalhes do suor para desafiar a percepção do espectador.
 
 ## 🤖 Tecnologias Utilizadas
-* **IA de Geração de Vídeo:** Google Veo (ou alternativa de ponta).
+* **IA de Geração de Vídeo:** Google Veo.**
 * **IA de Geração de Imagem (para inspiração):** Midjourney.
 * **Ferramenta de Prompt Engineering:** Arquiteto Veo 3 (GPT-4o).
 
